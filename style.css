@@ -30,7 +30,7 @@
 /* bouns sectino star */
 .feature{
   text-align: center;
-  padding: 180px 240px 130px 240px;
+  padding-top:180px ;
 }
 .feature-container{
   display: flex;
@@ -62,23 +62,19 @@
   padding: 85px 80px;
 }
 .feature-img{
-  text-align: center;
-  width: ;
-  padding:  
+  text-align: center;    
 }
 .img1{
   border-radius: 300px 300px 0px 0px;
   background: rgba(167, 33, 98, 0.15);
   width: 464px;
-  height: 538px;
-  padding:;
+  height: 538px;  
 }
 .img2{
   border-radius: 300px 300px 0px 0px;
   background: rgba(167, 33, 98, 0.15);
   width: 464px;
-  height: 538px;
-  padding: ;
+  height: 538px;  
 }
 .img3{
   border-radius: 300px 300px 0px 0px;
@@ -220,6 +216,8 @@ span{
   color: rgb(29, 27, 25);
   display: flex;
   border-radius: 8px;
+  justify-content: center;
+  
 }
 .luxuryimg{
   width: 720px;
@@ -229,7 +227,8 @@ span{
   width: 720px;
   height: 449px;
   background-color: rgb(231, 237, 218);
-  text-align: center;  
+  text-align: center;
+  align-items: center;  
 }
 .innovate-heading{
   color: #272727;

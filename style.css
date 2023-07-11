@@ -28,7 +28,64 @@
   padding: 20px 43px;
 }
 /* bouns sectino star */
-/* bouns section end */
+.feature{
+  text-align: center;
+  padding: 180px 240px 130px 240px;
+}
+.feature-container{
+  display: flex;
+  padding:50px 240px 130px 240px;
+  gap: 25px;
+  justify-content: center;
+}
+.feature-heading{
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: normal;
+}
+.featute-descreption{
+  color: rgba(39, 39, 39, 0.60);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.service{
+  display: flex;
+  margin:130px 240px 0 240px ;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  justify-content: space-around;
+}
+.feature-service{
+  padding: 85px 80px;
+}
+.feature-img{
+  text-align: center;
+  width: ;
+  padding:  
+}
+.img1{
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  width: 464px;
+  height: 538px;
+  padding:;
+}
+.img2{
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  width: 464px;
+  height: 538px;
+  padding: ;
+}
+.img3{
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+  width: 464px;
+  height: 538px;
+}
 
 /* offer section */
 
@@ -196,4 +253,5 @@ span{
   border:0px;
   padding: 20px 43px;  
 }
+
 

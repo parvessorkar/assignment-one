@@ -1,0 +1,159 @@
+/* header style */
+.header{
+  background: rgba(229, 84, 115, 0.10);
+  display: flex;
+  justify-content:space-between;
+  padding:50px 240px 0 240px;
+  
+}
+.baner-container{
+padding-bottom: 150px;  
+  
+}
+.baner-heading{
+color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+padding: 200px 100px 0 0px;
+}
+.baner-descreption{
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+padding: 5px 170px 32px 0;  
+}
+.btn{
+color:#FFFFFF;
+border-radius: 8px;
+background-color: #E55473;
+border:0px;
+padding: 20px 43px;
+}
+/* bouns sectino star */
+/* bouns section end */
+
+/* offer section */
+.offer{
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+margin: 130px 0px;
+display: flex;
+justify-content: space-between;
+padding: 100px 430px;  
+}
+.offer-container{
+padding: 230px 215px 160px 0;
+text-align: center;
+}
+.offer-heading{
+color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;  
+}
+.offer-descreption{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+padding: 30px 0;  
+}
+.offer-btn{
+color:#FFFFFF;
+border-radius: 8px;
+background-color: #E55473;
+border:0px;
+padding: 20px 43px;  
+}
+.off{
+  color:#E55473
+}
+/* social section */
+.social{
+  margin:130px 230px ;
+}
+.social-container{
+  text-align: center;
+  padding-bottom:50px ;
+}
+.social-heading{
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+padding-bottom: 
+}
+.social-descreption{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400; 
+}
+.social-picture{
+padding-left: 25px;
+gap: 25px;
+}
+/* explore area styel */
+
+.explore{
+  margin: 130px 240px;
+  background-image:url('backgrounimg.png');
+  text-align: center;
+  background-repeat: no-repeat;
+}
+.explore-heading{
+color: #272727;
+font-size: 40px;
+font-weight: 800;
+padding-top: 70px;
+}
+.explore-descreption{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;  
+}
+.explore-searcebar{
+  text-align: center;
+  padding:50px 290px 120px 290px;
+  display: flex;
+  gap: 16px;
+}
+.searcebar{
+  padding:22px 515px 22px 22px;
+  border: 0;
+  border-radius: 8px;
+  background: #FFF;
+}
+/* footer section style */
+.footer{
+background: #111010;
+text-align: center;
+padding:130px 0 ;  
+}
+.footer-heading{
+color: #E55473;
+font-size: 48px;
+font-weight: 800;
+
+}
+.footer-descreption{
+color: rgba(255, 255, 255, 0.90);
+font-size: 18px;
+font-weight: 400;
+padding:30px ;
+}
+.contract{
+color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
+}
+span{
+  color: #FFFFFF;
+}

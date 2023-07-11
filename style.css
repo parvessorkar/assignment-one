@@ -3,12 +3,10 @@
   background: rgba(229, 84, 115, 0.10);
   display: flex;
   justify-content:space-between;
-  padding:50px 240px 0 240px;
-  
+  padding:50px 240px 0 240px;  
 }
 .baner-container{
-padding-bottom: 150px;  
-  
+padding-bottom: 150px;    
 }
 .baner-heading{
 color: #272727;
@@ -157,3 +155,45 @@ font-weight: 400;
 span{
   color: #FFFFFF;
 }
+/* innovet area */
+.innovate{
+width: 1440px;
+height: 449px;
+margin: 130px 230px;
+color: rgb(29, 27, 25);
+display: flex;
+border-radius: 8px;
+}
+.luxuryimg{
+width: 720px;
+height: 449px;  
+}
+.innovate-contant{
+width: 720px;
+height: 449px;
+background-color: rgb(231, 237, 218);
+text-align: center;  
+}
+.innovate-heading{
+color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;  
+}
+.innovate-descreption{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+line-height: 30px;
+font-weight: 400;
+}
+.click{
+color:#332e2e;
+border-radius: 8px;
+background-color: #78f268;
+border:0px;
+padding: 20px 43px;  
+}
+

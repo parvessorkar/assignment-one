@@ -28,6 +28,7 @@
   padding: 20px 43px;
 }
 /* bouns sectino star */
+
 .feature{
   text-align: center;
   padding-top:180px ;
@@ -216,8 +217,7 @@ span{
   color: rgb(29, 27, 25);
   display: flex;
   border-radius: 8px;
-  justify-content: center;
-  
+  justify-content: center;  
 }
 .luxuryimg{
   width: 720px;
@@ -252,5 +252,6 @@ span{
   border:0px;
   padding: 20px 43px;  
 }
+/* end of the footer section */
 
 

@@ -20,6 +20,10 @@
   font-weight: 400;
   padding: 5px 170px 32px 0;  
 }
+.btn:hover{
+ background-color: #78f268;
+ color: #332e2e;
+}
 .btn{
   color:#FFFFFF;
   border-radius: 8px;
